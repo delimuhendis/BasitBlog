@@ -9,7 +9,7 @@
 ######php artisan key:generate
 ######Veritabanı yarat ve .env dosyasına tanıt
 ######php artisan migrate 
-
+######php artisan tinker komutuyla admin kullanıcı oluştur(Aşağıdaki linkte anlatım var[Bölüm 2])
 ##Laravel Project WebSite
 ######http://www.laravelproject.com/laravel-uygulamalari-basit-bir-blog-uygulamasi-1/
 ######http://www.laravelproject.com/laravel-uygulamalari-basit-bir-blog-uygulamasi-2
